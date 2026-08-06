@@ -435,3 +435,4 @@ D:\2026 - 2 Sem\I4DS\TechChallenge\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.S
 D:\2026 - 2 Sem\I4DS\TechChallenge\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\2026 - 2 Sem\I4DS\TechChallenge\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\2026 - 2 Sem\I4DS\TechChallenge\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2026 - 2 Sem\I4DS\TechChallenge\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

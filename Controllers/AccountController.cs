@@ -142,9 +142,6 @@ public class AccountController : Controller
         return View(model);
     }
 
-
-
-
     // =====================================
     // POST: /Account/Logout
     // Finaliza sessão
